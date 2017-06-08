@@ -1,0 +1,14 @@
+[spamegg]
+host=localhost
+database=processos
+user=smaruki_user
+password=secret
+
+
+[spamegg-slave]
+host=localhost
+database=processos
+user=smaruki_user
+password=secret
+
+
